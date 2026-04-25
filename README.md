@@ -1,6 +1,14 @@
 # JavaScript Practice
 
 This is a basic JavaScript practice project containing examples of variables, data types, operators, and simple arithmetic operations.
+2. JavaScript Basics
+// JavaScript ka use kis liye hota hai? Answer: Websites ko interactive banane ke liye use hota hai (buttons, animations, forms.).
+// Kya JavaScript browser mein run hoti hai? Answer: Yes
+// High-level language ka matlab simple words mein likho. Answer: Easy to understand and use.
+// Compiler aur interpreter mein se JavaScript kis pe kaam karti hai? Answer: Interpreter
+// Kya JavaScript frontend ke liye use hoti hai? Answer: Yes
+
+
 
 ## Requirements
 
